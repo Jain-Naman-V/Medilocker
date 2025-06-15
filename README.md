@@ -1,7 +1,9 @@
 # Medilocker - Secure Medical Records with Civic Auth
 
 Medilocker empowers patients with full ownership of their health records by securing them in a personal locker linked to their digital wallet, enabling secure, on-demand sharing with providers via Civic Auth.
+## Live Demo
 
+[![Deploy with Vercel](https://vercel.com/button)](https://medilocker-beta.vercel.app/)
 ## 🚀 Features
 
 - **Civic Auth Integration**: Seamless login with embedded wallet creation
